@@ -1,6 +1,9 @@
-# Wether-Exploer
+# Weather-Exploer
 📌 Project Overview
 Weather Explorer is a web application that shows real-time weather for any city and gives smart recommendations like whether it is a good time to go for a walk or if driving visibility is clear.
+# pic bad weather and good weather
+
+
 # ✨ Features
 Search weather by city name (global support).
 ​
