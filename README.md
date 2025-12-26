@@ -1,7 +1,7 @@
 # Weather-Exploer
 📌 Project Overview
 Weather Explorer is a web application that shows real-time weather for any city and gives smart recommendations like whether it is a good time to go for a walk or if driving visibility is clear.
-# pic bad weather and good weather
+# pic of  bad weather and good weather
 <img width="1896" height="839" alt="Screenshot 2025-12-22 174008" src="https://github.com/user-attachments/assets/26c297ff-c6c9-4692-89f2-239faf5c0fda" />
 
 <img width="1817" height="822" alt="Screenshot 2025-12-22 174038" src="https://github.com/user-attachments/assets/bce27683-c2d4-4d7a-bab1-42e3fdea9f7b" />
